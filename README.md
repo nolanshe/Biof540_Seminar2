@@ -1,1 +1,1 @@
-# Biof540_Seminar2a
+This is where all of my work from Seminar 2c will be put
